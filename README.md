@@ -1,0 +1,1 @@
+# otus-ansible-db-role
